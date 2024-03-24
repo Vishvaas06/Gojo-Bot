@@ -32,7 +32,7 @@ In no event shall we be liable for any indirect, incidental, special, consequent
 <p>⊳ 8. Changes to Terms
 We reserve the right to update or modify these Terms of Service at any time. We will notify users of any material changes by posting the updated terms on our website or through other communication channels.</p>
 <div className="py-3"></div>
-<p>⊳ Contact Us: If you have any questions or concerns about this Terms of Service or our use of your personal information, please contact us at the discord support server provided within the bot's help menu or in footer.
+<p>⊳ Contact Us: If you have any questions or concerns about this Terms of Service or our use of your personal information, please contact us at the discord support server provided within the bot's help menu or in footer.</p>
 </div>
     </div>
   );
