@@ -12,6 +12,7 @@ export default function Index() {
 	</div>
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
+		
           Gojo
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
@@ -19,7 +20,7 @@ export default function Index() {
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
+            <Link href={"https://discord.com/oauth2/authorize?client_id=1167896630930985023"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
@@ -29,7 +30,7 @@ export default function Index() {
               </a>
             </Link>
   <div className="py-10"></div>
-  <Link href={"https://top.gg/bot/774043716797071371/vote"}>
+  <Link href={"https://top.gg/bot/1167896630930985023/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Vote Gojo</a>
   </Link>
