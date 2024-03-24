@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img className="lg:block rounded-xl perspective-right shadow-xl shadow-black" width="500" src="/img/bck.jpeg" />
+      <img className="lg:block rounded-xl shadow-xl shadow-black" width="500" src="/img/bck.jpeg" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
 		
