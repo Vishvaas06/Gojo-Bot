@@ -1,5 +1,5 @@
 {
-    "name": "MusicMaker",
+    "name": "Gojo",
     "version": "5.0.0",
     "scripts": {
         "dev": "next dev",
