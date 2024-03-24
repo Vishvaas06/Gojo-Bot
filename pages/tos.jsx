@@ -12,13 +12,13 @@ Gojo is a Discord music bot designed to provide music streaming services within 
 <div className="py-3"></div>
 <p>⊳ 3. User Conduct
 You agree to use Gojo in a manner that complies with all applicable laws and regulations. You may not use Gojo to engage in any unlawful or prohibited activities, including but not limited to:
-<br>
+<br></br>
 - Violating Discord's Terms of Service or Community Guidelines
-<br>
+<br></br>
 - Distributing or sharing illegal or copyrighted content
-<br>
+<br></br>
 - Engaging in harassment, hate speech, or other forms of abusive behavior
- <br> 
+<br></br>
 - Exploiting or disrupting Gojo's services or its users</p>
 <div className="py-3"></div>
 <p>⊳ 4. User Content
