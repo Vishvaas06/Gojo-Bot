@@ -94,8 +94,7 @@ Vote Gojo</a>
               </>
       
         </div>
-	<Analytics/>
-	<SpeedInsights/>
+	    
       </>
   )
 }
