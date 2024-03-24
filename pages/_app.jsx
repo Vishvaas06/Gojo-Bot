@@ -41,20 +41,6 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Invite",
-      icon: "fal fa-robot",
-      activeIcon: "fab fa-robot",
-      href: "https://discord.com/oauth2/authorize?client_id=1167896630930985023",
-    },
-       {
-      link: true,
-      name: "Vote",
-      icon: "fa fa-plus",
-      activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/1167896630930985023/vote",
-    },
-    {
-      link: true,
       name: "Partners",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
