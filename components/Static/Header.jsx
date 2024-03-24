@@ -137,36 +137,8 @@ const Header = ({ $, NavItems }) => {
                                     </div>
                                 </Menu.Button>
                             </div>
-                            <Transition
-                                show={colors}
-                                as={Fragment}
-                                enter="transition ease-out duration-100"
-                                enterFrom="transform opacity-0 scale-95"
-                                enterTo="transform opacity-100 scale-100"
-                                leave="transition ease-in duration-75"
-                                leaveFrom="transform opacity-100 scale-100"
-                                leaveTo="transform opacity-0 scale-95"
-                            >
-                                <Menu.Items className="absolute z-50 text-base right-0 p-1 w-56 mt-2 origin-top-right border bg-white border-black/10 dark:border-white/10 dark:bg-black rounded-md shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none" static>
-                                    <div className="px-1 py-2 space-y-1">
-                                    {colorsThemes.map((th, thIdx) => (
-                                    <Menu.Item key={thIdx}>
-                                            <button
-                                            onClick={() => ChangeColor(th.id)}
-                                            className={`group flex rounded-md items-center w-full px-3 py-2 transition-all duration-150 ${theme === th.id ? `text-white bg-500 shadow-md shadow-violet-500/10` : 'text-black/75 dark:text-white/75 hover:text-black/100 dark:hover:text-white/100 hover:bg-gray-100/50 dark:hover:bg-gray-800/20'} `}
-                                            >
-                                            <div className="w-full flex items-center justify-between">
-                                                <span>{th.label} </span>
-                                                <i className={`${theme === th.id ? 'border-white dark:border-black' : 'border-black/0'} border-2 rounded-full fad fa-circle text-500-${String(th.color)} mr-1`}/>
-                                            </div>
-                                            </button>
-                                    </Menu.Item>
-                                    ))}
-                                    </div>
-                                </Menu.Items>
-                            </Transition>
                         </Menu>
-                        <Link href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot">
+                        <Link href="https://discord.com/oauth2/authorize?client_id=1167896630930985023">
                             <a className="w-auto flex items-center justify-center shadow-lg gap-x-2 shadow-amber-600/20 rounded-xl py-2.5 font-medium px-7 bg-gradient-to-tl from-amber-500 to-amber-700 text-white  hover:opacity-80 transition duration-200">
                                Invite
                             </a>
