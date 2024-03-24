@@ -31,7 +31,7 @@ const commands = [
     <>
       <div>
       <div className="flex w-full justify-center">
-      <img width="500" src="https://media1.tenor.com/m/eAUqbnSzTPUAAAAC/suguru-geto-chibi.gif" />
+      <img className="lg:block rounded-xl shadow-xl shadow-black" width="500" src="https://media1.tenor.com/m/bNfEXoGlp5EAAAAC/jujutsu-kaisen-gojo.gif" />
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
