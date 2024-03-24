@@ -65,7 +65,7 @@ export default function Footer() {
                             <div>
                                 <Link href="mailto:gojomusicbot@gmail.com">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-mail`} /> Mail 
+                                    <i className={`fa-brands fa-google`} /> Mail 
                                     </a>
                                 </Link>
                             </div>
