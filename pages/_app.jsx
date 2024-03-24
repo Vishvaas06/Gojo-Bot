@@ -56,14 +56,6 @@ export default function AwardApp({ Component, pageProps }) {
         style={{ height: "500px" }}
       />
       <Head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSHEH37Y5G"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XSHEH37Y5G');
-</script>
         <title>
           Gojo
         </title>
