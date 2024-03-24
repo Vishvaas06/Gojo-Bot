@@ -7,9 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-	<div className="front">
-      <img width="500" src="/img/bck.jpeg" />
-	</div>
+      <img className="lg:block rounded-xl perspective-right shadow-xl shadow-black" width="500" src="/img/bck.jpeg" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
 		
@@ -93,7 +91,7 @@ Vote Gojo</a>
                   <p className="text-3xl text-white font-semibold">Yowai Mo!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Maybe I should just kill all the higher-ups, Don't you agree?</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://i.ibb.co/bJx2mYR/6ed61a190867629-65c20bf0d3b31.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
