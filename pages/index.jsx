@@ -15,7 +15,7 @@ export default function Index() {
           Gojo
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with Gojo? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       ✨Gojo is your ultimate companion for bringing music to life within your Discord server. Totally FREE with High Quality. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
