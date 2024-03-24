@@ -1,5 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
+import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function Index() {
 	
@@ -94,7 +96,8 @@ Vote Gojo</a>
               </>
       
         </div>
-
+	<Analytics/>
+	<SpeedInsights/>
       </>
   )
 }
