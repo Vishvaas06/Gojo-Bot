@@ -8,12 +8,12 @@ const ErrorPage = ({ code, message }) => {
     
     return <>
         <Head>
-            <title>{code} | MusicMaker</title>
+            <title>{code} | Gojo</title>
         </Head>
 
         <div className="max-w-7xl text-center py-20 mx-auto">
         <div className="flex w-full justify-center">
-      <img width="400" src="/img/bck3.png" />
+      <img width="400" src="/img/tenor.gif" />
       </div>
             <h1 className="text-4xl font-extrabold text-white">{code}</h1>
             <p className="text-xl font-thin text-white text-opacity-75">{message}</p>
