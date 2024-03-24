@@ -5,17 +5,25 @@ export default function Privacy() {
             <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for MusicMaker</h1>
             <p className="text-sm text-white/30 mb-4">Last Update: 20/05/2022  🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
-        <p>⊳ To use the MusicMaker bot, you must define the necessary permissions when adding it to your discord server. <a className="text-white">(READ MESSAGES, SEND MESSAGES, EMBED LINKS, ATTACH FILES, READ MESSAGE HISTORY, CONNECT, SPEAK, USE VOICE ACTIVITY, PRIORITY SPEAKER)</a></p>
+        <p>⊳ Information We Collect<br></br>
+        - Usage Data: We may collect usage data, including commands used, songs played, and other interactions with the bot. This data helps us improve Gojo's performance and tailor our services to better meet your needs.<br></br>
+        - Cookies: Gojo does not use cookies or similar tracking technologies to collect personal information.</p>
         <div className="py-3"></div>
-        <p>⊳ You have to vote for the <a className="text-white" href="https://top.gg/bot/774043716797071371/vote">MusicMaker</a> bot when using certain commands from the bot commands.</p>
+        <p>⊳ How We Use Your Information<br></br>
+        - Providing and Improving Services: We use the information collected to provide and maintain Gojo's services, troubleshoot issues, and enhance user experience.<br></br>
+        - Analytics: Usage data may be used for analytics purposes to understand how users interact with Gojo and to identify areas for improvement.<br></br>
+        - Communication: We may use your contact information to communicate with you about updates, new features, or important announcements related to Gojo.</p>
         <div className="py-3"></div>
-        <p>⊳ Every user can use the MusicMaker bot however they want, as long as they do not intend to harm.</p>
+        <p>⊳ Data Retention<br></br>
+        We retain the information collected only for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.</p>
         <div className="py-3"></div>
-        <p>⊳ You cannot use certain commands at the same time while using MusicMaker.</p>   
+        <p>⊳ Your Rights<br></br>
+        - Data Deletion: You can request the deletion of your usage information from our systems. However, please note that certain data may be retained for legal or legitimate purposes.</p>   
         <div className="py-3"></div>
-        <p>⊳ MusicMaker bot does not save any data based on users.</p>
+        <p>⊳ Changes to This Policy<br></br>
+        We reserve the right to update this Privacy Policy at any time. We will notify users of any material changes by posting the updated policy on our discord server.</p>
         <div className="py-3"></div>
-        <p>⊳ While using the bot, your user ID is saved and deleted in the system for 60 seconds for once.</p> 
+        <p>⊳ Contact Us: If you have any questions or concerns about this privacy policy or our use of your personal information, please contact us at the discord support server provided within the bot's help menu or in footer.</p> 
     
         </div>
             </div>
