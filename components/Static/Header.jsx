@@ -13,8 +13,8 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
 
                 <div className="flex justify-between border-b border-white/20 items-center px-5 py-4">
                     <div className="flex items-center">
-                        <img width="32" className="rounded-full icon-glow" src="/img/logo.jpg" />
-                        <p className=" font-extrabold ml-1 text-2xl">MusicMaker</p>
+                        <img width="32" className="rounded-full icon-glow" src="/img/logo.png" />
+                        <p className=" font-extrabold ml-1 text-2xl">Gojo</p>
                     </div>
                     <button onClick={() => setOpen(!open)}><i className="cursor-pointer fa fa-times text-xl mr-2" /></button>
                 </div>
@@ -76,14 +76,14 @@ const Header = ({ $, NavItems }) => {
                 <div className="max-w-7xl px-5 mx-auto py-5 flex items-center justify-between">
                     <div className="flex items-center space-x-6">
                         <div className="flex items-center space-x-3">
-                            <img src="/img/logo2.png" 
+                            <img src="/img/logo.png" 
                                 className={`
                                     rounded-full 
                                 `}
                                 width="48" height="48"
                             />
                             <p className="invisible md:visible text-xl text-white font-semibold">
-                              <a href="/"><span className="text-amber-400">Music</span>Maker</a>
+                              <a href="/"><span className="text-amber-400">Gojo</a>
                             </p>
                         </div>
                         <ul className="hidden lg:flex items-center space-x-4">
