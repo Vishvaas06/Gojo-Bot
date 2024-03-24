@@ -18,7 +18,7 @@ body {
 }
 
 .front{
-    border-radius:5px;
+    border-radius: 5px !important;
 }
 
 .windui-window-header {
