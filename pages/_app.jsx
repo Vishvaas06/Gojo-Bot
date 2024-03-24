@@ -37,21 +37,21 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Support",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/vrJA4K68N6",
     },
     {
       link: true,
-      name: "Add Bot",
+      name: "Invite",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=bot%20applications.commands",
+      href: "https://discord.com/oauth2/authorize?client_id=1167896630930985023",
     },
        {
       link: true,
       name: "Vote",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/774043716797071371/vote",
+      href: "https://top.gg/bot/1167896630930985023/vote",
     },
     {
       link: true,
@@ -71,7 +71,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          MusicMaker
+          Gojo
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
