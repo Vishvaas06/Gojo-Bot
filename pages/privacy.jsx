@@ -2,8 +2,8 @@ export default function Privacy() {
 
     return (
         <div>
-            <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for MusicMaker</h1>
-            <p className="text-sm text-white/30 mb-4">Last Update: 20/05/2022  🆕️</p>
+            <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for Gojo</h1>
+            <p className="text-sm text-white/30 mb-4">Last Update: 25/03/24  🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ Information We Collect<br></br>
         - Usage Data: We may collect usage data, including commands used, songs played, and other interactions with the bot. This data helps us improve Gojo's performance and tailor our services to better meet your needs.<br></br>
