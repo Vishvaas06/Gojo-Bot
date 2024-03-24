@@ -21,8 +21,8 @@ export default function Partners() {
                             <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1221402358005633054/1221561013984428043/IMG_5232.png?ex=66130659&is=66009159&hm=d26d2c8b4eca01bca2b82ea56af1e4375ef0d5645867b99b069e9fbfcfe4feec&=&format=webp&quality=lossless" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Vivi's Donation Community</h1>        
-                                <div className="flex items-center mt-1">
-                                    <p className="font-normal fa-users font-sm">
+                                <div className="fa-users flex items-center mt-1">
+                                    <p className="font-normal font-sm">
                                       600+ members
                                     </p>
                                 </div>     
