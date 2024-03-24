@@ -17,6 +17,10 @@ body {
     overflow-x: hidden;
 }
 
+.front{
+    border-radius:5px;
+}
+
 .windui-window-header {
     height: 1.6rem !important;
 }
