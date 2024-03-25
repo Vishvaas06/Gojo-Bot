@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { Analtics } from "@vercel/analytics/react";
 
 export default function Index() {
 	
@@ -95,7 +96,7 @@ Vote Gojo</a>
               </>
       
         </div>
-
+	<Analytics />
       </>
   )
 }
