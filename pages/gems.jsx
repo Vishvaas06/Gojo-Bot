@@ -34,7 +34,7 @@ export default function Partners() {
                         <div className="flex flex-col justify-center text-white rounded">
             <a href="">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1221402358005633054/1221561013984428043/IMG_5232.png?ex=66130659&is=66009159&hm=d26d2c8b4eca01bca2b82ea56af1e4375ef0d5645867b99b069e9fbfcfe4feec&=&format=webp&quality=lossless" />
+                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/L-Wac_R4lT-U3zprCkid0ij2IAkZu2gsEkqTzw-YvhE/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/949333192085749801/a_5b3737ca0213f2bd1e8ea4b6a670f985.gif?width=428&height=428" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Want your server here?</h1>        
                                 <div className="fa-user flex items-center mt-1">
