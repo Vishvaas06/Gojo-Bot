@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Analtics } from "@vercel/analytics/react";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function Index() {
 	
