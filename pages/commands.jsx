@@ -23,7 +23,7 @@ const commands = [
   "/skipto",
   "/volume",
   "/vote",
-  "/review",
+  "/feedback",
   "/connect",
   "/disconnect",
   "/config",
