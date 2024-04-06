@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Vivi's Donation Community</h1>        
                                 <div className="fa-user flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      600+ members
+                                      700+ members
                                     </p>
                                 </div>     
                             </div>
