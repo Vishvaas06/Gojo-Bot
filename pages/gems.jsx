@@ -18,7 +18,7 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/N7y3SE3prf">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1221402358005633054/1221561013984428043/IMG_5232.png?ex=66130659&is=66009159&hm=d26d2c8b4eca01bca2b82ea56af1e4375ef0d5645867b99b069e9fbfcfe4feec&=&format=webp&quality=lossless" />
+                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1037413396380921921/1226151004370894868/a_55a509d97567e36114d0f79f8c0abf4e.gif?ex=6623b91c&is=6611441c&hm=e540213f37a58471a4c47d2e111f907983b1ab2d7a3e446629f3a6a5f80c5b1c&=" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Vivi's Donation Community</h1>        
                                 <div className="fa-user flex items-center mt-1">
@@ -34,7 +34,7 @@ export default function Partners() {
                         <div className="flex flex-col justify-center text-white rounded">
             <a href="">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/L-Wac_R4lT-U3zprCkid0ij2IAkZu2gsEkqTzw-YvhE/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/949333192085749801/a_5b3737ca0213f2bd1e8ea4b6a670f985.gif?width=428&height=428" />
+                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/D-gbHRNijnx4nqO6pb8XTHZhUpuoS7h_dopszcDkeeg/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1094017858960363660/c99b7c8a0d7765faeb89eeca01e09b0f.webp?format=webp&width=473&height=473" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Want your server here?</h1>        
                                 <div className="fa-user flex items-center mt-1">
