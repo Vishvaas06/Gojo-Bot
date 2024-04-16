@@ -40,11 +40,11 @@ const commands = [
         You can get information about the commands of the Gojo.
         </p>
 
-        <div>
+        <div href="https://top.gg/bot/1167896630930985023/#commands">
           <Menu as="div" className="w-full relative inline-block text-left">
           <div>
               <Menu.Button className="left-0 transition w-full duration-200 hover:bg-opacity-50 bg-black bg-opacity-30 text-white focus:text-amber-400 rounded-xl border border-white/10 focus:border-amber-400 focus:outline-none py-4 px-6 flex justify-between items-center">
-                <div href="https://top.gg/bot/1167896630930985023#commands" className="flex items-center gap-x-1 text-white text-opacity-60">
+                <div className="flex items-center gap-x-1 text-white text-opacity-60">
                  
                     <>
                       <i className="fa fa-hashtag text-white text-opacity-20" />
