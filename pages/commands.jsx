@@ -27,15 +27,11 @@ const commands = [
   "/connect",
   "/disconnect",
   "/config",
-  "More will be added soon...",
 ];
 
   return (
     <>
       <div>
-      <div className="flex w-full justify-center">
-      <img className="lg:block rounded-xl shadow-xl shadow-black" width="250" src="https://media1.tenor.com/m/bNfEXoGlp5EAAAAC/jujutsu-kaisen-gojo.gif" />
-      </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
          Bot Commands
@@ -48,7 +44,7 @@ const commands = [
           <Menu as="div" className="w-full relative inline-block text-left">
           <div>
               <Menu.Button className="left-0 transition w-full duration-200 hover:bg-opacity-50 bg-black bg-opacity-30 text-white focus:text-amber-400 rounded-xl border border-white/10 focus:border-amber-400 focus:outline-none py-4 px-6 flex justify-between items-center">
-                <div className="flex items-center gap-x-1 text-white text-opacity-60">
+                <div href="https://top.gg/bot/1167896630930985023#commands" className="flex items-center gap-x-1 text-white text-opacity-60">
                  
                     <>
                       <i className="fa fa-hashtag text-white text-opacity-20" />
