@@ -59,6 +59,7 @@ export default function AwardApp({ Component, pageProps }) {
         <title>
           Gojo
         </title>
+      <meta name="google-adsense-account" content="ca-pub-9608766355595519">
       <link rel="icon" href="/img/logo.png" />
       <meta name="keywords" content="Gojo, Gojo Music Bot, Gojo Bot, discord music bot, music bot discord, discord, discord bot, bot, music bot, discord web, discord app, bots for discord music, discord bot for music" />
       </Head>
