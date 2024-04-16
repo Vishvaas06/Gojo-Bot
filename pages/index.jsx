@@ -64,7 +64,7 @@ Vote Gojo</a>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-dot-circle-o text-2xl text-amber-500`} /> Controls</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-vr-cardboard text-2xl text-amber-500`} /> Controls</p>
                   <p className="text-gray-500 line-clamp-4">Experience effortless control with Gojo's intuitive playback buttons. Skip, pause, adjust volume, and more, all at your fingertips.</p>
                 </div>
               </div>
