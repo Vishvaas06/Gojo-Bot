@@ -30,7 +30,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Commands",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
-      href: "/commands",
+      href: "https://top.gg/bot/1167896630930985023/#commands",
     },
     {
       link: true,
@@ -41,10 +41,10 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Gems",
+      name: "Donate",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-stars",
-      href: "/gems",
+      href: "https://payments.cashfree.com/forms/gojo",
     }
   ]
 
