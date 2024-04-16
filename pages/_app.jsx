@@ -59,7 +59,8 @@ export default function AwardApp({ Component, pageProps }) {
         <title>
           Gojo
         </title>
-       <meta name="google-site-verification" content="evoS_2J5K8lgXYSavZlGBtEk0bGI7Ks9SjKqHNlTl_E" />
+      <link rel="icon" href="/img/logo.png" />
+      <meta name="keywords" content="Gojo, Gojo Music Bot, Gojo Bot, discord music bot, music bot discord, discord, discord bot, bot, music bot, discord web, discord app, bots for discord music, discord bot for music" />
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
         <Header NavItems={NavItems} />
