@@ -52,6 +52,11 @@ export default function Footer() {
                                     Invite Bot
                                 </a>
                             </div>
+                            <div>
+                                <a href="https://payments.cashfree.com/forms/gojo" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Donate to Bot
+                                </a>
+                            </div>
                         </div>
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Contact Us</p>
@@ -94,7 +99,7 @@ export default function Footer() {
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
-                                    In all the heavens and the earth, I alone am the honored one
+                                    In all the heaven and the earth, I alone am the honored one
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
