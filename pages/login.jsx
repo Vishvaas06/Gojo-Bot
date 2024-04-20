@@ -1,3 +1,4 @@
+import React, { useEffect } from 'react'
 export default function Login() {
   useEffect(() => {
   const state = generateRandomString(16);
