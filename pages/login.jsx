@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react'
-import window from 'global'
 export default function Login() {
   function makeid(length) {
     let result = '';
