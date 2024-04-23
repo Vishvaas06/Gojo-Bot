@@ -1,6 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Analytics } from "@vercel/analytics/react";
+import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
+ 
+injectSpeedInsights();
 
 export default function Index() {
 	
