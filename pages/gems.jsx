@@ -1,5 +1,5 @@
 
-export default function Partners() {
+export default function Team() {
 
     return (
         <>
@@ -9,7 +9,7 @@ export default function Partners() {
       </div>
                 <h1 className="py-7 animateHeader text-4xl font-extrabold text-center text-white">
                     <i className="fal fa-stars text-amber-400 mr-2" />
-                    They Trust Us
+                   Team Members
                 </h1>
             </div>
 
