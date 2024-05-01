@@ -62,6 +62,7 @@ export default function AwardApp({ Component, pageProps }) {
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9608766355595519"
      crossorigin="anonymous"></script>
       <meta name="google-adsense-account" content="ca-pub-9608766355595519"/>
+      <meta name="trustpilot-one-time-domain-verification-id" content="1522ad8f-0229-4f0d-9f08-ff13983f211b"/>
       <link rel="icon" href="/img/logo.png" />
       <meta name="keywords" content="Gojo, Gojo Music Bot, Gojo Bot, discord music bot, music bot discord, discord, discord bot, bot, music bot, discord web, discord app, bots for discord music, discord bot for music" />
       </Head>
