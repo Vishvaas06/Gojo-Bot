@@ -13,11 +13,16 @@ const router = useRouter();
 	</head>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img className="lg:block rounded-xl shadow-xl shadow-black" width="500" src="/img/bck.jpeg" />
+      <img className="lg:block pb-8 rounded-xl  shadow-xl shadow-black" width="500" src="/img/bck.jpeg" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
 		
-          Gojo
+          Imagine a Discord music <div className="py-10"></div>
+  <Link >
+  <a className={"fa-solid fa-checkpx-6 justify-center gap-x-2 shadow-lg shadow-yellow-400/20 rounded-xl py-4 font-medium bg-indigo-600 text-white " }>
+APP</a>
+  </Link>
+        </div>
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
       ✨Gojo is your ultimate companion for bringing music to life within your Discord server. Totally FREE with High Quality. 
@@ -90,10 +95,10 @@ Vote</a>
 
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
-		<img src="https://i.imgur.com/lDdcJDI.png" className="hidden lg:block rounded-xl perspective-left shadow-xl shadow-black" />
+		<img src="https://i.imgur.com/lDdcJDI.png" className="hidden lg:block rounded-xl shadow-xl shadow-black" />
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left">
                   <img src="https://i.imgur.com/lDdcJDI.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white text-start font-semibold">Control Board</p>
+                  <p className="fa fa-vr-cardboard text-3xl text-white text-start font-semibold">Control Board</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-4">Experience effortless control with Gojo's intuitive playback buttons. Skip, pause, adjust volume, and more, all at your fingertips.</p>
                 </div>
               </>
@@ -104,10 +109,10 @@ Vote</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left">
                   <img src="https://i.imgur.com/89kZ3UV.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white text-start font-semibold">Music Profile</p>
+                  <p className="fa fa-address-card text-3xl text-white text-start font-semibold">Music Profile</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-4">Customizable music profiles showcasing your favourite song, songs played, time listened and achievement badges</p>
                 </div>
-                <img src="https://i.imgur.com/89kZ3UV.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://i.imgur.com/89kZ3UV.png" className="hidden lg:block rounded-xl shadow-xl shadow-black" />
               </>
       
         </div>
