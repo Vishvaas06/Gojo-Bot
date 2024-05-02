@@ -18,7 +18,7 @@ const router = useRouter();
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
 		
           Imagine a Discord music <div className="py-10"></div>
-  <Link >
+  <Link href="">
   <a className={"fa-solid fa-checkpx-6 justify-center gap-x-2 shadow-lg shadow-yellow-400/20 rounded-xl py-4 font-medium bg-indigo-600 text-white " }>
 APP</a>
   </Link>
