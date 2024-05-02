@@ -23,7 +23,7 @@ export default function Team() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Vishvaas</h1>        
                                 <div className="fa-solid fa-code flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      <a href="https://discord.com/users/523154428576923679">Developer</a>
+                                      <a href="https://discord.com/users/523154428576923679"> Developer</a>
                                     </p>
                                 </div>     
                             </div>
@@ -37,7 +37,7 @@ export default function Team() {
                                 <h1 className="leading-none text-3xl font-bold text-white">UnclePRO</h1>        
                                 <div className="fa-solid fa-user-gear flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      <a href="https://discord.com/users/808572936151105586">Manager</a>
+                                      <a href="https://discord.com/users/808572936151105586"> Manager</a>
                                     </p>
                                 </div>     
                             </div>
@@ -52,7 +52,7 @@ export default function Team() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Rishi</h1>        
                                 <div className="fa-solid fa-palette flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      <a href="https://discord.com/users/998608551431897170">Designer</a>
+                                      <a href="https://discord.com/users/998608551431897170"> Designer</a>
                                     </p>
                                 </div>     
                             </div>
