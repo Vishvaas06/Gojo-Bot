@@ -35,7 +35,7 @@ const router = useRouter();
             </Link>
   <div className="py-10"></div>
   <Link href={"https://top.gg/bot/1167896630930985023/vote"}>
-  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-yellow-400/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-yellow-400 to-yellow-600 hover:border-yellow-400 hover:bg-zinc-900 transition duration-200 text-white " }>
+  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-yellow-400/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-yellow-400 to-yellow-600 hover:border-yellow-400 bg-zinc-900 transition duration-200 text-white " }>
 Vote</a>
   </Link>
         </div>
