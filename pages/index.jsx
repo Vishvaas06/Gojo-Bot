@@ -12,16 +12,13 @@ const router = useRouter();
 	<meta name="keywords" content="Gojo, Gojo Music Bot, Gojo Bot, discord music bot, music bot discord, discord, discord bot, bot, music bot, discord web, discord app, bots for discord music, discord bot for music, free, quality, music" />
 	</head>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
-        <div className="flex w-full justify-center">
-      <img className="lg:block pb-8 rounded-xl  shadow-xl shadow-black" width="500" src="/img/bck.jpeg" />
+        <div className="flex w-full pb-8 justify-center">
+      <img className="lg:block rounded-xl  shadow-xl shadow-black" width="500" src="/img/bck.jpeg" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
 		
-          Imagine a Discord music <div className="py-10"></div>
-  <Link href="">
-  <a className={"fa-solid fa-checkpx-6 justify-center gap-x-2 shadow-lg shadow-yellow-400/20 rounded-xl py-4 font-medium bg-indigo-600 text-white " }>
-APP</a>
-  </Link>
+          Imagine a Discord music <div className="py-10">
+	</div>
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
       ✨Gojo is your ultimate companion for bringing music to life within your Discord server. Totally FREE with High Quality. 
