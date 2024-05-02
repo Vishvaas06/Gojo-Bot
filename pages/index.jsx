@@ -21,17 +21,17 @@ const router = useRouter();
       ✨Gojo is your ultimate companion for bringing music to life within your Discord server. Totally FREE with High Quality.</p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://discord.com/oauth2/authorize?client_id=1167896630930985023"}>
+            <Link href={"https://discord.com/oauth2/authorize?client_id=1167896630930985023"} className={"fa-solid fa-user-plus"}>
               <a
                 className={
-                  "fa-solid fa-user-plus flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
+                  "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               > Invite
               </a>
             </Link>
   <div className="py-10"></div>
-  <Link href={"https://top.gg/bot/1167896630930985023/vote"}>
-  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-yellow-400/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-yellow-400 to-yellow-600 hover:opacity-80 transition duration-200 text-white " }>
+  <Link href={"https://top.gg/bot/1167896630930985023/vote"} className={"fa-solid fa-circle-arrow-up"}>
+  <a className={"px-6 justify-center gap-x-2 shadow-lg shadow-yellow-400/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-yellow-400 to-yellow-600 hover:opacity-80 transition duration-200 text-white " }>
 Vote</a>
   </Link>
         </div>
