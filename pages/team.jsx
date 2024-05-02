@@ -21,7 +21,7 @@ export default function Team() {
                             <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/HqdbwqHETaPayjOOMyzO1aqVImGMw3Nd3qZiXZrd_Yo/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/523154428576923679/3e4b859d9ea9af9a14718c95050a6943.png?format=webp&quality=lossless&width=428&height=428" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Vishvaas</h1>        
-                                <div className="fa-code flex items-center mt-1">
+                                <div className="fa-solid fa-code flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                       <a href="https://discord.com/users/523154428576923679">Developer</a>
                                     </p>
@@ -35,7 +35,7 @@ export default function Team() {
                             <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/AYYYbzC0PKRCiphq4mr-QUl9tRfXsDjpdWJUTSWdzF0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/808572936151105586/aaea527df52398cc70c354c49d5526a0.png?format=webp&quality=lossless" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">UnclePRO</h1>        
-                                <div className="fa-user-gear flex items-center mt-1">
+                                <div className="fa-solid fa-user-gear flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                       <a href="https://discord.com/users/808572936151105586">Manager</a>
                                     </p>
@@ -50,7 +50,7 @@ export default function Team() {
                             <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/X_Rj3HAzgc9R9i0VI-aK4C5QKY1YtqGa8O-JSC_zMcM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/998608551431897170/a_79d957db0e2dc345f89b815cccf58503.gif?width=428&height=428" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Rishi</h1>        
-                                <div className="fa-palette flex items-center mt-1">
+                                <div className="fa-solid fa-palette flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                       <a href="https://discord.com/users/998608551431897170">Designer</a>
                                     </p>
