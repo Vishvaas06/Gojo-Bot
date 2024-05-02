@@ -16,8 +16,8 @@ const router = useRouter();
       <img className="lg:block rounded-xl  shadow-xl shadow-black" width="500" src="/img/bck.jpeg" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-	Imagine a Discord music</p>
-        <p className="animateHeader text-white text-opacity-50 text-center mt-5">
+	The best music app for Discord</p>
+        <p className="animateHeader text-white text-opacity-30 text-center mt-5">
       ✨Gojo is your ultimate companion for bringing music to life within your Discord server. Totally FREE with High Quality.</p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -93,12 +93,12 @@ Vote</a>
       
         </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
+      <div className="items-center justify-center grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
-            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Gojo" }} />
-            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
+            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Ready to get the best experience?" }} />
+            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "Invite now!!" }}/>
             <a href="https://discord.com/oauth2/authorize?client_id=1167896630930985023" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Invite
+              <i className="fa-solid fa-user-plus mr-2" />Invite
             </a>
           </div>
       </div>
