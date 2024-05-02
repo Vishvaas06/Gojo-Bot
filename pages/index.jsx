@@ -18,11 +18,10 @@ const router = useRouter();
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
 		
           Imagine a Discord music <div className="py-10"></div>
-  <Link href={""}>
+  <Link >
   <a className={"fa-solid fa-checkpx-6 justify-center gap-x-2 shadow-lg shadow-yellow-400/20 rounded-xl py-4 font-medium bg-indigo-600 text-white " }>
 APP</a>
   </Link>
-        </div>
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
       ✨Gojo is your ultimate companion for bringing music to life within your Discord server. Totally FREE with High Quality. 
