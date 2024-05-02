@@ -128,7 +128,7 @@ Vote</a>
                   <p className="text-3xl text-white text-start font-semibold"><i className={`fa fa-rectangle-list text-2xl text-amber-500`} /> Charts</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-4">Get access to global/regional weekly,daily & viral top charts.</p>
                 </div>
-                <img src="https://i.imgur.com/SgrWQ3e.png" className="hidden lg:block rounded-xl shadow-xl shadow-black" />
+                <img src="https://i.imgur.com/SgrWQ3e.png" className="hidden max-w-xl max-h-xl lg:block rounded-xl shadow-xl shadow-black" />
               </>
       
         </div>
