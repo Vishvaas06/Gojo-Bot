@@ -88,13 +88,13 @@ Vote</a>
           </div>
       </div>
 
-      <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
+      <div className="flex flex-row h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-right justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
 		<img src="https://i.imgur.com/lDdcJDI.png" className="hidden lg:block rounded-xl perspective-left shadow-xl shadow-black" />
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://i.imgur.com/lDdcJDI.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white text-start font-semibold">Control Board</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Experience effortless control with Gojo's intuitive playback buttons. Skip, pause, adjust volume, and more, all at your fingertips.</p>
+                  <p className="text-md max-w-50 text-white font-medium text-gray-500 line-clamp-5">Experience effortless control with Gojo's intuitive playback buttons. Skip, pause, adjust volume, and more, all at your fingertips.</p>
                 </div>
               </>
       
