@@ -82,12 +82,23 @@ Vote</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-rectangle-list text-2xl text-amber-500`} /> Charts</p>
-                  <p className="text-gray-500 line-clamp-4">Get access to global/regional weekly/daily/viral top charts.</p>
+                  <p className="text-gray-500 line-clamp-4">Get access to global/regional weekly,daily & viral top charts.</p>
                 </div>
               </div>
           </div>
       </div>
 
+      <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
+              <>
+                <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
+                  <img src="https://imgur.com/a/sdRAOTc"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <p className="text-3xl text-white text-start font-semibold">Music Profile</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Customizable music profiles showcasing your favourite song, songs played, time listened and achievement badges</p>
+                </div>
+                <img src="https://i.ibb.co/bJx2mYR/6ed61a190867629-65c20bf0d3b31.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+              </>
+      
+        </div>
 
 
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
