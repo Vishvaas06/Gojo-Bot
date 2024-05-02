@@ -38,23 +38,18 @@ export default function Footer() {
                             <div>
                                 <Link href="https://top.gg/bot/1167896630930985023/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Vote
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/vrJA4K68N6" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Support Server
-                                </a>
-                            </div>
-                            <div>
                                 <a href="https://discord.com/oauth2/authorize?client_id=1167896630930985023" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Invite Bot
+                                    Invite
                                 </a>
                             </div>
                             <div>
                                 <a href="https://payments.cashfree.com/forms/gojo" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Donate to Bot
+                                    Donate
                                 </a>
                             </div>
                         </div>
