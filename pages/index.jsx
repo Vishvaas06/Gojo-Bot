@@ -113,7 +113,7 @@ Vote</a>
               <>
 		<img src="/img/panel.gif" className="hidden max-w-xl max-h-xl lg:block rounded-xl shadow-xl shadow-black" />
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left">
-                  <img src="/img/panel.gif"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="/img/panel.gif"  width="324" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white text-start font-semibold"><i className={`fa fa-hashtag text-2xl text-amber-500`} /> Music Panel</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-4">Create music panel and play limitlessly!</p>
                 </div>
