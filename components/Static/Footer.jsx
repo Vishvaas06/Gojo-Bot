@@ -70,7 +70,7 @@ export default function Footer() {
                             <div>
                                 <Link href="mailto:gojomusicbot@gmail.com">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-envelope`} /> Mail 
+                                    <i className={`fa-solid fa-brands fa-envelope`} /> Mail 
                                     </a>
                                 </Link>
                             </div>
