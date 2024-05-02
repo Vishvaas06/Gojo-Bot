@@ -38,18 +38,18 @@ export default function Footer() {
                             <div>
                                 <Link href="https://top.gg/bot/1167896630930985023/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote
+                                       <i className={`fa-solid fa-circle-arrow-up`} /> Vote
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <a href="https://discord.com/oauth2/authorize?client_id=1167896630930985023" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Invite
+                                 <i className={`fa-solid fa-user-plus`} /> Invite
                                 </a>
                             </div>
                             <div>
                                 <a href="https://payments.cashfree.com/forms/gojo" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Donate
+                                   <i className={`fa-solid fa-circle-dollar-to-slot`} /> Donate
                                 </a>
                             </div>
                         </div>
@@ -75,14 +75,14 @@ export default function Footer() {
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Terms Of Service
+                                       <i className={`fa-solid fa-file-circle-check`} /> Terms Of Service
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <Link href="/privacy">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Privacy Policy
+                                       <i className={`fa-solid fa-shield`} /> Privacy Policy
                                     </a>
                                 </Link>
                             </div>
