@@ -42,9 +42,16 @@ export default function AwardApp({ Component, pageProps }) {
     {
       link: true,
       name: "Donate",
-      icon: "fal fa-handshake",
-      activeIcon: "fa fa-stars",
+      icon: "fa-solid fa-circle-dollar-to-slot",
+      activeIcon: "fa-solid fa-circle-dollar-to-slot",
       href: "https://payments.cashfree.com/forms/gojo",
+    },
+    {
+      link: true,
+      name: "Team",
+      icon: "fal fa-stars",
+      activeIcon: "fa fa-stars",
+      href: "/team",
     }
   ]
 
