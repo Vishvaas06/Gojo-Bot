@@ -4,9 +4,6 @@ export default function Team() {
     return (
         <>
             <div className="w-full my-10">
-            <div className="flex w-full justify-center">
-      <img className="lg:block rounded-xl shadow-xl shadow-black" width="400" src="https://media1.tenor.com/m/eAUqbnSzTPUAAAAC/suguru-geto-chibi.gif" />
-      </div>
                 <h1 className="py-7 animateHeader text-4xl font-extrabold text-center text-white">
                     <i className="fal fa-stars text-amber-400 mr-2" />
                    Team Members
