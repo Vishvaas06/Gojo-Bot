@@ -24,10 +24,9 @@ const router = useRouter();
             <Link href={"https://discord.com/oauth2/authorize?client_id=1167896630930985023"}>
               <a
                 className={
-                  "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
+                  "fa-solid fa-user-plus flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
-              >
-          Invite
+              > Invite
               </a>
             </Link>
   <div className="py-10"></div>
@@ -93,7 +92,7 @@ Vote</a>
       
         </div>
 
-      <div className="items-center justify-center grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Ready to get the best experience?" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "Invite now!!" }}/>
