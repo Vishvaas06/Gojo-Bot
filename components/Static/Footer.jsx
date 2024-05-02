@@ -75,7 +75,7 @@ export default function Footer() {
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                       <i className={`fa-solid fa-lock`} /> Terms Of Service
+                                       <i className={`fa-solid fa-lock`} /> Terms of Service
                                     </a>
                                 </Link>
                             </div>
