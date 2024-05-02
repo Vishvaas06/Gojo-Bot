@@ -94,7 +94,7 @@ Vote</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://i.imgur.com/lDdcJDI.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white text-start font-semibold">Control Board</p>
-                  <p className="line-clamp-5 text-md text-white font-medium text-gray-500 line-clamp-5">Experience effortless control with Gojo's intuitive playback buttons. Skip, pause, adjust volume, and more, all at your fingertips.</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-4">Experience effortless control with Gojo's intuitive playback buttons. Skip, pause, adjust volume, and more, all at your fingertips.</p>
                 </div>
               </>
       
@@ -105,7 +105,7 @@ Vote</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://i.imgur.com/89kZ3UV.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white text-start font-semibold">Music Profile</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Customizable music profiles showcasing your favourite song, songs played, time listened and achievement badges</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-4">Customizable music profiles showcasing your favourite song, songs played, time listened and achievement badges</p>
                 </div>
                 <img src="https://i.imgur.com/89kZ3UV.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
@@ -117,7 +117,7 @@ Vote</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://i.imgur.com/89kZ3UV.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white text-start font-semibold">Music Profile</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Customizable music profiles showcasing your favourite song, songs played, time listened and achievement badges</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-4">Customizable music profiles showcasing your favourite song, songs played, time listened and achievement badges</p>
                 </div>
                 <img src="https://i.imgur.com/89kZ3UV.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
