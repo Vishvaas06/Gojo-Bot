@@ -111,7 +111,7 @@ Vote</a>
 
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
-		<img src="/img/panel.gif" className="hidden max-w-xs max-h-xs lg:block rounded-xl shadow-xl shadow-black" />
+		<img src="/img/panel.gif" className="hidden max-w-xl max-h-xl lg:block rounded-xl shadow-xl shadow-black" />
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left">
                   <img src="/img/panel.gif"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white text-start font-semibold"><i className={`fa fa-hashtag text-2xl text-amber-500`} /> Music Panel</p>
