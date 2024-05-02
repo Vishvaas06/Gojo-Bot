@@ -92,15 +92,13 @@ const router = useRouter();
       
         </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
+
           <div className="col-span-4 items-center justify-center">
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Ready to get the best experience?" }} />
-            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "Invite now!!" }}/>
-            <a href="https://discord.com/oauth2/authorize?client_id=1167896630930985023" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
+            <a className="item-left justify-left" href="https://discord.com/oauth2/authorize?client_id=1167896630930985023" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fa-solid fa-user-plus mr-2" />Invite
             </a>
           </div>
-      </div>
 
 	<Analytics />
 	<SpeedInsights route={router.pathname} />;
