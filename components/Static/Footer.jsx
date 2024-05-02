@@ -89,7 +89,7 @@ export default function Footer() {
                         </div>
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
-                        <p className="text-white text-center sm:text-left text-opacity-50">
+                        <p className="text-amber-600 text-center sm:text-left text-opacity-50">
                             {new Date().getFullYear()} &copy; Gojo
                         </p>
                         <div className="hidden md:flex items-center justify-center">
@@ -97,7 +97,7 @@ export default function Footer() {
                                     In all the heaven and the earth, I alone am the honored one
                                 </p>
                         </div>
-                        <p className="text-white text-center sm:text-right text-opacity-50">
+                        <p className="text-amber-600 text-center sm:text-right text-opacity-50">
                             {"by Jujutsu High ⛩"}
                         </p>
                     </div>
