@@ -16,12 +16,9 @@ const router = useRouter();
       <img className="lg:block rounded-xl  shadow-xl shadow-black" width="500" src="/img/bck.jpeg" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-		
-          Imagine a Discord music <div className="py-10">
-        </p>
+	Imagine a Discord music <div className="py-10"></p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-      ✨Gojo is your ultimate companion for bringing music to life within your Discord server. Totally FREE with High Quality. 
-	  </p>
+      ✨Gojo is your ultimate companion for bringing music to life within your Discord server. Totally FREE with High Quality.</p>
 	</div>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
