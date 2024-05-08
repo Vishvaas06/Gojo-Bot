@@ -12,7 +12,7 @@ export default function Login() {
     return result;
   }
   let state = makeid(16)
-  const uri = `https://accounts.spotify.com/authorize?response_type=code&client_id=a47de44f66a74e27ac5db06119628b2e&redirect_uri=https://callback.gojobot.xyz/callback&scope=playlist-read-private playlist-read-collaborative playlist-modify-public playlist-modify-private&state=${state}`;
+  const uri = `https://accounts.spotify.com/authorize?response_type=code&client_id=590d50275a974ef099315a7f3c8433db&redirect_uri=https://callback.gojobot.xyz/callback&scope=playlist-read-private playlist-read-collaborative playlist-modify-public playlist-modify-private&state=${state}`;
   useEffect(() => {
   window.location.replace(uri);
   }, []);
