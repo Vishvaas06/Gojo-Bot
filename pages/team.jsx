@@ -15,7 +15,7 @@ export default function Team() {
 
                         <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/HqdbwqHETaPayjOOMyzO1aqVImGMw3Nd3qZiXZrd_Yo/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/523154428576923679/3e4b859d9ea9af9a14718c95050a6943.png?format=webp&quality=lossless&width=428&height=428" />
+                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/SdzHg0w-dYvcFusCHjLuXejzg-YaOaeQ6znxzGxg3FI/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/523154428576923679/55fcd38a0c8eb46925f26c2e9933096f.webp?format=webp&width=473&height=473" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Vishvaas</h1>        
                                 <div className="fa-solid fa-code flex items-center mt-1">
@@ -44,7 +44,7 @@ export default function Team() {
 
                                             <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/X_Rj3HAzgc9R9i0VI-aK4C5QKY1YtqGa8O-JSC_zMcM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/998608551431897170/a_79d957db0e2dc345f89b815cccf58503.gif?width=428&height=428" />
+                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/_FcWuRlTbtQ4_AwAgoJNeuIHsIiiOCo9MWf-abcQEJM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/998608551431897170/33ee2ce7d2893050adbae290a697869d.webp?format=webp" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Rishi</h1>        
                                 <div className="fa-solid fa-palette flex items-center mt-1">
@@ -59,12 +59,12 @@ export default function Team() {
 
                                             <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https/cdn.discordapp.com/avatars/679656545654538251/71134c4eeebea75e18fdafd88f8a79a8.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/no8TgOM2vqpzk2IRNlLbwPu0O02Zi7ZkULoblFKj7l8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/679656545654538251/71134c4eeebea75e18fdafd88f8a79a8.webp?format=webp" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">△TELIER</h1>        
                                 <div className="fa-solid fa-palette flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      <a href="https://discord.com/users/998608551431897170">  Designer</a>
+                                      <a href="https://discord.com/users/679656545654538251">  Designer</a>
                                     </p>
                                 </div>     
                             </div>
