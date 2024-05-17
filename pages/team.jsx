@@ -57,6 +57,20 @@ export default function Team() {
                     </div>
 
 
+                                            <div className="flex flex-col justify-center text-white rounded">
+                        <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
+                            <img className="rounded-full h-32 w-32" src="https/cdn.discordapp.com/avatars/679656545654538251/71134c4eeebea75e18fdafd88f8a79a8.webp" />
+                            <div>
+                                <h1 className="leading-none text-3xl font-bold text-white">△TELIER</h1>        
+                                <div className="fa-solid fa-palette flex items-center mt-1">
+                                    <p className="font-normal font-sm">
+                                      <a href="https://discord.com/users/998608551431897170">  Designer</a>
+                                    </p>
+                                </div>     
+                            </div>
+                        </div>
+                    </div>
+
                 
                 </div>
                 <div className="py-10"></div>
