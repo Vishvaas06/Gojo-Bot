@@ -44,7 +44,7 @@ export default function Team() {
 
                                             <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/_FcWuRlTbtQ4_AwAgoJNeuIHsIiiOCo9MWf-abcQEJM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/998608551431897170/33ee2ce7d2893050adbae290a697869d.webp?format=webp" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1086285320863105056/1245679076669263983/cc789e362d8301a5c0078d544d20a468.png?ex=6659a08b&is=66584f0b&hm=59bbd9f60a0ade5e1ae90842cd8dd5d02d96b3f6cb67e15b585013291c79b290&" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Rishi</h1>        
                                 <div className="flex items-center mt-1">
@@ -59,7 +59,7 @@ export default function Team() {
 
                                             <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/no8TgOM2vqpzk2IRNlLbwPu0O02Zi7ZkULoblFKj7l8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/679656545654538251/71134c4eeebea75e18fdafd88f8a79a8.webp?format=webp" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1085489154000945216/1245679480194863164/7f4c7207503ccf94d8a0fdf1b09c07af.png?ex=6659a0eb&is=66584f6b&hm=8b0136f023adf8059c0243454bc02dabda402279c61454d73fd740dad06b9bec&" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">△TELIER</h1>        
                                 <div className="flex items-center mt-1">
