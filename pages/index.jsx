@@ -11,7 +11,7 @@ const router = useRouter();
 	<head>
 	<meta name="keywords" content="Gojo, Gojo Music Bot, Gojo Bot, discord music bot, music bot discord, discord, discord bot, bot, music bot, discord web, discord app, bots for discord music, discord bot for music, free, quality, music" />
 	</head>
-      <div className="py-20 mb-30 max-w-3xl mx-auto">
+      <div className="max-w-3xl mx-auto">
         <div className="flex w-full pb-8 justify-center">
       <img className="image" width="400" src="https://i.imgur.com/kIRDecZ.png" />
       </div>
