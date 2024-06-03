@@ -48,7 +48,7 @@ const router = useRouter();
               <>
 		<img src="https://i.imgur.com/GoBt5LB.png" className="hidden lg:block rounded-xl shadow-xl shadow-black" />
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left">
-                  <img src="https://i.imgur.com/lDdcJDI.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://i.imgur.com/GoBt5LB.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white text-start font-semibold"><i className={`fa fa-vr-cardboard text-2xl text-amber-500`} /> Control Board</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-4">Experience effortless control with Gojo's intuitive playback buttons. Skip, pause, adjust volume, and more, all at your fingertips.</p>
                 </div>
@@ -59,11 +59,11 @@ const router = useRouter();
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left">
-                  <img src="https://i.imgur.com/89kZ3UV.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://i.imgur.com/IQTYv2S.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white text-start font-semibold"><i className={`fa fa-address-card text-2xl text-amber-500`} /> Music Profile</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-4">Customizable music profiles showcasing your favourite song, songs played, time listened and achievement badges</p>
                 </div>
-                <img src="https://i.imgur.com/89kZ3UV.png" className="hidden lg:block rounded-xl shadow-xl shadow-black" />
+                <img src="https://i.imgur.com/IQTYv2S.png" className="hidden lg:block rounded-xl shadow-xl shadow-black" />
               </>
       
         </div>
