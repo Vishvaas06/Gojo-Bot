@@ -94,29 +94,6 @@ const commands = [
             </Transition>
           </Menu>
         </div>
-
-        <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
-  
-  <Link href={"https://discord.com/oauth2/authorize?client_id=1167896630930985023"}>
-  <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite Gojo</a>
-  </Link>
-
-  <div className="py-10"></div>
-  
-  <Link href={"https://discord.gg/vrJA4K68N6"}>
-  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Support Server</a>
-  </Link>
-
-  <div className="py-10"></div>
-  
-  <Link href={"https://top.gg/bot/1167896630930985023/vote"}>
-  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Gojo</a>
-  </Link>
-</div>
-
       </div>
       <div className="py-20"></div>
     </>
