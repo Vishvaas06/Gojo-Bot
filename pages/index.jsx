@@ -13,7 +13,7 @@ const router = useRouter();
 	</head>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full pb-8 justify-center">
-      <img className="lg:block rounded-xl  shadow-xl shadow-black" width="500" src="https://i.imgur.com/kIRDecZ.png" />
+      <img className="image" width="400" src="https://i.imgur.com/kIRDecZ.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
 	The best music app for Discord</p>
