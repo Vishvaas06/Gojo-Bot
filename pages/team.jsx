@@ -44,9 +44,9 @@ export default function Team() {
 
                                             <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1086285320863105056/1245679076669263983/cc789e362d8301a5c0078d544d20a468.png?ex=6659a08b&is=66584f0b&hm=59bbd9f60a0ade5e1ae90842cd8dd5d02d96b3f6cb67e15b585013291c79b290&" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/avatars/998608551431897170/f8c457a18bb7d70406f899140212400e.png?format=webp&quality=lossless" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Rishi</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">INSANITY</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                       <a href="https://discord.com/users/998608551431897170"><i className="fal fa-solid fa-palette text-amber-400 mr-2" />Designer</a>
@@ -59,7 +59,7 @@ export default function Team() {
 
                                             <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1085489154000945216/1245679480194863164/7f4c7207503ccf94d8a0fdf1b09c07af.png?ex=6659a0eb&is=66584f6b&hm=8b0136f023adf8059c0243454bc02dabda402279c61454d73fd740dad06b9bec&" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/avatars/679656545654538251/fed5f47fc02adfb2db3458c35522a311.png?format=webp&quality=lossless&width=473&height=473" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">△TELIER</h1>        
                                 <div className="flex items-center mt-1">
