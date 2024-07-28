@@ -54,7 +54,7 @@ export default function Team() {
                                 </div>     
                             </div>
                         </div>
-                    </div>*}
+                    </div>*/}
 
 
                                             <div className="flex flex-col justify-center text-white rounded">
