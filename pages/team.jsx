@@ -15,7 +15,7 @@ export default function Team() {
 
                         <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/SdzHg0w-dYvcFusCHjLuXejzg-YaOaeQ6znxzGxg3FI/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/523154428576923679/55fcd38a0c8eb46925f26c2e9933096f.webp?format=webp&width=473&height=473" />
+                            <img className="rounded-full h-32 w-32" src="/img/vishvaas.png" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Vishvaas</h1>        
                                 <div className="flex items-center mt-1">
@@ -44,9 +44,9 @@ export default function Team() {
 
                                             <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/avatars/998608551431897170/f8c457a18bb7d70406f899140212400e.png?format=webp&quality=lossless" />
+                            <img className="rounded-full h-32 w-32" src="/img/insanity.png" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">INSANITY</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Alucard</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                       <a href="https://discord.com/users/998608551431897170"><i className="fal fa-solid fa-palette text-amber-400 mr-2" />Designer</a>
@@ -59,7 +59,7 @@ export default function Team() {
 
                                             <div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/avatars/679656545654538251/fed5f47fc02adfb2db3458c35522a311.png?format=webp&quality=lossless&width=473&height=473" />
+                            <img className="rounded-full h-32 w-32" src="/img/atelier.png" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">△TELIER</h1>        
                                 <div className="flex items-center mt-1">
