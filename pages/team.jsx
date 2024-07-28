@@ -42,7 +42,7 @@ export default function Team() {
                     </div>
 
 
-                                            <div className="flex flex-col justify-center text-white rounded">
+                {/*<div className="flex flex-col justify-center text-white rounded">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="/img/insanity.png" />
                             <div>
@@ -54,7 +54,7 @@ export default function Team() {
                                 </div>     
                             </div>
                         </div>
-                    </div>
+                    </div>*}
 
 
                                             <div className="flex flex-col justify-center text-white rounded">
